@@ -1,3 +1,10 @@
+PARA VER LA FUNCIONALIDAD DE HITO 2
+HACER CLICK EN 🔐LOGIN Y 🔐REGISTER RESPECTIVAMENTE.
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
